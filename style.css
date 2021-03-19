@@ -1,0 +1,48 @@
+body{
+background-image:url("Cool.gif");
+background-position: center;
+background-size: cover;
+
+color:aliceblue;  
+text-decoration-style:inherit;
+text-align:center;
+
+}
+
+#o{
+color:white;
+font-weight:100px;
+}
+
+#style{
+background-image:url("img gif.gif");
+background-repeat: no-repeat;
+background-size:cover;
+position:absolute;
+margin-left:200px;
+padding-right:100px;
+padding-left:100px;
+padding-bottom:200px;
+padding-right:200px;
+padding-left:200px;
+}
+
+#k{
+    color:white;
+    text-decoration-style:inherit;
+    font-size: 30px;
+    font-weight:bolder;
+    font-style: oblique;
+    }
+
+    #login_button{
+    background-color:#00045e;
+    color:white;
+    margin-top:10px;
+    }
+
+    #img{
+    height:100px;
+    }
+
+    
